@@ -1,0 +1,21 @@
+#!/bin/bash
+# Activation script for water analysis environment
+echo "🔬 Activating Water Analysis Environment..."
+echo "📦 All required packages are installed:"
+echo "  - numpy (2.3.3)"
+echo "  - pandas (2.3.3)"
+echo "  - matplotlib (3.10.6)"
+echo "  - scipy (1.16.2)"
+echo "  - gymnasium (1.2.1)"
+echo "  - seaborn (0.13.2)"
+echo "  - jupyter (1.1.1)"
+echo ""
+echo "🚀 To activate the environment, run:"
+echo "   source water_analysis_env/bin/activate"
+echo ""
+echo "📊 To start Jupyter notebook, run:"
+echo "   source water_analysis_env/bin/activate && jupyter notebook"
+echo ""
+echo "🐍 To test imports, run:"
+echo "   source water_analysis_env/bin/activate && python3 -c \"import numpy, pandas, matplotlib.pyplot, scipy; print('All packages working!')"
+

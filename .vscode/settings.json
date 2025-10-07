@@ -1,0 +1,7 @@
+{
+    "python.defaultInterpreterPath": "./water_analysis_env/bin/python",
+    "python.terminal.activateEnvironment": true,
+    "jupyter.jupyterServerType": "local",
+    "jupyter.kernels.filter": [],
+    "jupyter.defaultKernel": "water_analysis_env"
+}
